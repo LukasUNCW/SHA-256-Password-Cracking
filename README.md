@@ -1,0 +1,1 @@
+The code attempts to crack a given SHA-256 hash by iterating through passwords from the "rockyou.txt" file, hashing each one, and checking if it matches the target hash, logging the progress and result.
