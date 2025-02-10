@@ -6,7 +6,7 @@ It takes a SHA-256 hash and attempts to find the password that, when hashed, mat
 
 This Python file utilizes two different libraries: 'pwn' and the 'sys' library.
 
-The 'pwn' library imports functions commonly used in cybersecurity (for example, interacting with processes or making brute-force attacks).
+The 'pwn' library imports functions commonly used in cybersecurity.
 
 The 'sys' library imports system functions to handle command-line arguments.
 
