@@ -10,7 +10,9 @@ The 'pwn' library imports functions commonly used in cybersecurity.
 
 The 'sys' library imports system functions to handle command-line arguments.
 
-The 'sys' Python library comes pre-installed in most IDEs, but to install the 'pwn' library, you will need to run the following command inside your desired IDE terminal: pip install pwn.
+The 'sys' Python library comes pre-installed in most IDEs, but to install the 'pwn' library,
+
+you will need to run the following command inside your desired IDE terminal: pip install pwn.
 
 Links to the 'pwn' documentation are below, as well as some definitions for those who are unfamiliar with certain concepts.
 
