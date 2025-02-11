@@ -14,6 +14,12 @@ The 'sys' Python library comes pre-installed in most IDEs, but to install the 'p
 
 you will need to run the following command inside your desired IDE terminal: pip install pwn.
 
+Additionally, to create a SHA-256 password hash, you will need to have access to a Linux command line and run the following command, 
+
+echo 'insert password to be hashed' | sha256sum 
+
+the output of the command will provide a SHA-256 hash that can used as a parameter inside your IDE terminal to compare hashes.
+
 Links to the 'pwn' documentation are below, as well as some definitions for those who are unfamiliar with certain concepts.
 
 https://docs.pwntools.com/en/latest/
